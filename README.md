@@ -4,6 +4,4 @@
 
 "If you are interested, you can reply in the issue."
 
-youtube demo 
-
-[This link]([http://example.net/](https://youtu.be/Y2d1j2amcPs))
+youtube demo : https://youtu.be/Y2d1j2amcPs
